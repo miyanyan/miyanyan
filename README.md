@@ -1,6 +1,7 @@
-### Hi
-I have two parrots and I am very happy to share them with you
+### Hi, I am miyan
+I have two parrots and I am very happy to share them with you, hope you will like them.
 
+![](./images/left.jpg) ![](./images/right.jpg)
 <!--
 **miyanyan/miyanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I mainly use cpp and python.
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyanyan&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyanyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
