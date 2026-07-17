@@ -17,8 +17,8 @@ and other open-source repositories.
 I have two parrots and I am very happy to share them with you.
 
 <p>
-  <img src="./images/left.jpg" width="45%" />
-  <img src="./images/right.jpg" width="45%" />
+  <img src="./images/left.jpg" height="320" />
+  <img src="./images/right.jpg" height="320" />
 </p>
 
 ### GitHub Stats
