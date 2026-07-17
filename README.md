@@ -1,24 +1,28 @@
 ### Hi, I am miyan
-I have two parrots and I am very happy to share them with you, hope you will like them.
 
-![](./images/left.jpg) ![](./images/right.jpg)
-<!--
-**miyanyan/miyanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C++ and Python developer.
 
-Here are some ideas to get you started:
+[Blog](https://blog.miyan.site)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open Source
 
-I mainly use cpp and python.
+My main open-source contributions are to
+[microsoft/vcpkg](https://github.com/microsoft/vcpkg) and
+[zenustech/zeno](https://github.com/zenustech/zeno).
 
-![Dusai's GitHub stats](./profile/stats.svg)
+I have also submitted small fixes to projects such as
+[alibaba/yalantinglibs](https://github.com/alibaba/yalantinglibs)
+and other open-source repositories.
 
-[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
+I have two parrots and I am very happy to share them with you.
+
+<p>
+  <img src="./images/left.jpg" width="45%" />
+  <img src="./images/right.jpg" width="45%" />
+</p>
+
+### GitHub Stats
+
+![miyan's GitHub stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
