@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 I mainly use cpp and python.
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyanyan&show_icons=true)
+![Dusai's GitHub stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyanyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
