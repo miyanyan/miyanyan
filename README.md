@@ -16,6 +16,8 @@ and other open-source repositories.
 
 I have two parrots and I am very happy to share them with you.
 
+I also make toys and everyday tools for them — [explore my parrot projects](https://github.com/miyanyan/miyan-bird-toys).
+
 <p>
   <img src="./images/left.jpg" height="320" />
   <img src="./images/right.jpg" height="320" />
