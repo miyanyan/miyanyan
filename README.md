@@ -2,7 +2,7 @@
 
 I'm a C++ and Python developer.
 
-[Blog](https://blog.miyan.site)
+[View my blog →](https://blog.miyan.site)
 
 ### Open Source
 
@@ -11,11 +11,10 @@ My main open-source contributions are to
 [Zeno](https://github.com/zenustech/zeno/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan).
 
 I also contribute fixes and improvements to
-[LLVM/MLIR](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan),
+[LLVM](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan),
 [ONNX Runtime](https://github.com/microsoft/onnxruntime/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan),
 [llama.cpp](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan),
 [yalantinglibs](https://github.com/alibaba/yalantinglibs/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan),
-[spdlog](https://github.com/gabime/spdlog/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan),
 [zmij](https://github.com/vitaut/zmij/pulls?q=is%3Apr+is%3Amerged+author%3Amiyanyan),
 and other projects.
 
