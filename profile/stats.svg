@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">miyan&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 223, Total PRs: 265, Total Issues: 65, Contributed to (last year): 24</desc>
+        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 233, Total PRs: 265, Total Issues: 67, Contributed to (last year): 24</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.71730148156624;
+        stroke-dashoffset: 85.91372732472507;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >223</text>
+      >233</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >65</text>
+      >67</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
